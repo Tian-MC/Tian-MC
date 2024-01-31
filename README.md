@@ -13,7 +13,7 @@ Hello there! I'm Tian, a passionate and versatile developer diving into the worl
 - 💻 Proficient in Front-End and AI.
 - 🎬 Experienced in Premiere Pro, DaVinci Resolve.
 - 🎮 Enthusiastic about Osu!, Beat Saber, Minecraft.
-- 
+
 ## Get in Touch
 
 - 📧 Email: playtoplayg@gmail.com
