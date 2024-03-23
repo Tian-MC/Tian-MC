@@ -18,7 +18,7 @@ Hello there! I'm Tian, a passionate and versatile developer diving into the worl
 
 - 📧 Email: playtoplayg@gmail.com
 - 🐦 X: typeoftian_osu
-- 🌐 Portfolio: WIP
+- 🌐 Portfolio: I can't HTML and CSS
 
 Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together! 🚀
 
