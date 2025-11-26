@@ -4,21 +4,17 @@ Hello there! I'm Tian, a passionate and versatile developer diving into the worl
 
 ## About Me
 
-- 🌱 I'm a budding developer eager to learn and explore new technologies.
-- 🎥 Video editing is one of my creative outlets, and I love crafting compelling visual stories.
-- 🎵 Music and video games are my constant companions; I find inspiration in their diverse worlds.
+- 🌱 I'm a developer and now I'm learning IT Networking.
+- 🎥 also I'm a Video editor and YTP maker.
+- 🎵 Music and video games are my best friends!
 
 ## Skills
 
-- 💻 Proficient in Front-End and AI.
-- 🎬 Experienced in Premiere Pro, DaVinci Resolve.
+- 💻 Proficient in Front-End and Linux Cybersecurity.
+- 🎬 Experienced in Wondershare Filmora.
 - 🎮 Enthusiastic about Osu!, Beat Saber, Minecraft.
 
 ## Get in Touch
 
 - 📧 Email: playtoplayg@gmail.com
-- 🌐 Portfolio: [tian-mc](https://tian-mc.github.io)
-
-Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together! 🚀
-
-Happy coding and stay creative! 🎨🎮🎵
+- 🌐 [Personal Website](https://retro.typeoftian.pw/)
