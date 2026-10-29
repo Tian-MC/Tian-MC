@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="336" viewBox="0 0 1080 336" role="img" aria-label="GitHub contributions graph will appear after the first workflow run">
+<rect width="1080" height="336" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="1078" height="334" rx="17" fill="none" stroke="#2e2646" stroke-width="2"/>
+<text x="60" y="122" fill="#c4b5fd" font-family="Arial, sans-serif" font-size="24" font-weight="700">CONTRIBUTION ACTIVITY</text>
+<text x="60" y="167" fill="#ddd6fe" font-family="Arial, sans-serif" font-size="17">The latest GitHub activity graph will appear here.</text>
+<text x="60" y="206" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">GitHub Actions → Update profile activity graph → Run workflow</text>
+</svg>
